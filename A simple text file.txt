@@ -1,0 +1,1 @@
+Some information in this text file to trigger a change in the repository
